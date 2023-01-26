@@ -81,6 +81,7 @@ function line() {
     ctx.stroke()
 
 }
+/* Create all yours images*/
 function pokazi() {
     score.draw();
     line();
